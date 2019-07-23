@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="itilde" format="2">
+  <advance width="180"/>
+  <unicode hex="0129"/>
+  <outline>
+    <contour>
+      <point x="80.0" y="0.0" type="line"/>
+      <point x="100.0" y="0.0" type="line"/>
+      <point x="100.0" y="530.0" type="line"/>
+      <point x="80.0" y="530.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="207.0" y="732.0" type="line"/>
+      <point x="207.0" y="687.0"/>
+      <point x="185.0" y="680.0"/>
+      <point x="162.0" y="680.0" type="curve" smooth="yes"/>
+      <point x="115.0" y="680.0"/>
+      <point x="69.0" y="738.0"/>
+      <point x="15.0" y="738.0" type="curve" smooth="yes"/>
+      <point x="-15.0" y="738.0"/>
+      <point x="-45.0" y="722.0"/>
+      <point x="-45.0" y="668.0" type="curve"/>
+      <point x="-27.0" y="668.0" type="line"/>
+      <point x="-27.0" y="713.0"/>
+      <point x="-5.0" y="720.0"/>
+      <point x="18.0" y="720.0" type="curve" smooth="yes"/>
+      <point x="65.0" y="720.0"/>
+      <point x="111.0" y="662.0"/>
+      <point x="165.0" y="662.0" type="curve" smooth="yes"/>
+      <point x="195.0" y="662.0"/>
+      <point x="225.0" y="678.0"/>
+      <point x="225.0" y="732.0" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

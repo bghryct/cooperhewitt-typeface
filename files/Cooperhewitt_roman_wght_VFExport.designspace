@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.0">
+  <axes>
+    <axis tag="nwx0" name="wght" minimum="0" maximum="1000" default="0">
+      <labelname xml:lang="en">weight</labelname>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="CooperHewitt-Thin.ufo" familyname="Cooper Hewitt" stylename="Thin">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="wght" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="CooperHewitt-Semibold.ufo" familyname="Cooper Hewitt" stylename="Semibold">
+      <location>
+        <dimension name="wght" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="CooperHewitt-Medium.ufo" familyname="Cooper Hewitt" stylename="Medium">
+      <location>
+        <dimension name="wght" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="CooperHewitt-Light.ufo" familyname="Cooper Hewitt" stylename="Light">
+      <location>
+        <dimension name="wght" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="CooperHewitt-Heavy.ufo" familyname="Cooper Hewitt" stylename="Heavy">
+      <location>
+        <dimension name="wght" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="CooperHewitt-Book.ufo" familyname="Cooper Hewitt" stylename="Book">
+      <location>
+        <dimension name="wght" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="CooperHewitt-Bold.ufo" familyname="Cooper Hewitt" stylename="Bold">
+      <location>
+        <dimension name="wght" xvalue="0"/>
+      </location>
+    </source>
+  </sources>
+</designspace>
